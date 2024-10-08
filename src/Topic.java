@@ -1,0 +1,4 @@
+enum Topic{
+    Python,
+    Java
+}
